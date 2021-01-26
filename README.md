@@ -1,0 +1,2 @@
+# MarsPersonelWordlist
+Kişiye Özel Wordlist 
